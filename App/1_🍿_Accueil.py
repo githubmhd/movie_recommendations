@@ -25,7 +25,7 @@ movie = df_call.df_final()
 
 st.markdown("<h1 style='text-align: center; color: orange;'>Recherche & recommandation de films</h1>", unsafe_allow_html=True)
 
-st.title("<h2 style='text-align: center>Bienvenue</h2>")
+st.title("<h2 style='text-align: center'>Bienvenue</h2>")
 
 # ---------------------------
 # Thème de la semaine
