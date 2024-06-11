@@ -8,7 +8,7 @@ import df_call
 # Paramètre de la page
 
 # Modifying the page title and icon
-st.set_page_config(page_title = "Le Senechal - Reco", page_icon = "🔮", layout = "wide")
+st.set_page_config(page_title = "Le Senechal - MR", page_icon = "🔮", layout = "wide")
 
 # Add the logo of the Senechal
 image = "App/img/senechal_logo-removebg-preview.png"

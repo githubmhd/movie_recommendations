@@ -12,7 +12,7 @@ import df_call
 # Paramètre de la page
 
 # Modifying the page title and icon
-st.set_page_config(page_title = "Le Senechal - MR", page_icon = ":clapper:", layout = "wide")
+st.set_page_config(page_title = "Le Senechal", page_icon = ":clapper:", layout = "wide")
 
 # Afficher le logo du Sénéchal
 image = "App/img/senechal_logo-removebg-preview.png"
@@ -25,7 +25,7 @@ movie = df_call.df_final()
 
 st.markdown("<h1 style='text-align: center; color: orange;'>Recherche & recommandation de films</h1>", unsafe_allow_html=True)
 
-st.title("Bienvenue")
+st.title("<h2 style='text-align: center>Bienvenue</h2>")
 
 # ---------------------------
 # Thème de la semaine
